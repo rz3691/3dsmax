@@ -17,12 +17,16 @@ h2 {
     text-align: center;
 }
 
-.download a .iconfont {
+.download a {
     display: block;
     margin: 5px;
     font-size: 18px;
     color: black;
     text-align: center;
+}
+
+.download .iconfont {
+    font-size: 18px;
 }
 
 a p {
