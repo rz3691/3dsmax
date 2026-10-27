@@ -17,19 +17,26 @@ h2 {
     text-align: center;
 }
 
-.download a {
-    /* display: block; */
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-}
+/* .download a {
+    display: block;
 
-.download .iconfont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+} */
+
+.download a {
     display: block;
     margin: 5px;
     font-size: 18px;
     color: black;
     text-align: center;
+}
+
+.download .iconfont {
+    font-size: 18px;
 }
 
 a p {
