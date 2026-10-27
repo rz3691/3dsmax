@@ -18,11 +18,14 @@ h2 {
 }
 
 .download a {
-    display: block;
+    /* display: block; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 5px;
     font-size: 18px;
     color: black;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .download .iconfont {
