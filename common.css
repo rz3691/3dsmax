@@ -17,16 +17,6 @@ h2 {
     text-align: center;
 }
 
-.download a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin: 5px;
-    font-size: 18px;
-    color: black;
-}
-
 /* .download a {
     display: block;
     margin: 5px;
@@ -36,8 +26,22 @@ h2 {
     text-align: center;
 } */
 
+/* .download a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 5px;
+    font-size: 18px;
+    color: black;
+} */
+
 .download .iconfont {
-    font-size: 19px;
+    display: block;
+    margin: 5px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
 }
 
 a p {
