@@ -19,17 +19,17 @@ h2 {
 
 .download a {
     /* display: block; */
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
-    margin: 5px;
-    font-size: 18px;
-    color: black;
-    /* text-align: center; */
+    align-items: center; */
 }
 
 .download .iconfont {
+    display: block;
+    margin: 5px;
     font-size: 18px;
+    color: black;
+    text-align: center;
 }
 
 a p {
